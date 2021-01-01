@@ -1,3 +1,3 @@
-#Kokoa Clone 2021 Practice
+# Kokoa Clone 2021 Practice
 
-CSS got so much better!
+HTML & CSS are so much fun!
